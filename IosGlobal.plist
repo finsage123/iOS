@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://10.67.155.223/ios/IosGlobal.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>mpos.transglobe.com.tw.sysage</string>
+				<key>bundle-version</key>
+				<string>105.02.01.003.P</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>mPOSApp</string>
+				<key>title</key>
+				<string>mPOS行動業務系統</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
